@@ -7,5 +7,6 @@ opencv-python-headless==4.9.0.80
 mediapipe==0.10.9
 scipy==1.11.4
 
+
 pyttsx3==2.90
 pydantic==2.6.4
